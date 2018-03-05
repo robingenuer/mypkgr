@@ -5,7 +5,7 @@ mypkgr
 
 The goal of mypkgr is to do THAT.
 
-[![Travis-CI Build Status](https://travis-ci.org/*prenomnom*/mypkgr.svg?branch=master)](https://travis-ci.org/*prenomnom*/mypkgr)
+[![Travis-CI Build Status](https://travis-ci.org/robingenuer/mypkgr.svg?branch=master)](https://travis-ci.org/robingenuer/mypkgr) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/robingenuer/mypkgr?branch=master&svg=true)](https://ci.appveyor.com/project/robingenuer/mypkgr)
 
 Installation
 ------------
