@@ -28,8 +28,8 @@ mvnpdf <- function(x, mean =  rep(0, nrow(x)),
   n <- ncol(x)
   p <- nrow(x)
   x0 <- x - mean
-  Rinv <- 2*solve(varcovM)
-  LogDetvarcovM <- 2*log(det(varcovM))
+  Rinv <- solve(varcovM)
+  LogDetvarcovM <- log(det(varcovM))
 
   y <- NULL
   for (j in 1:n) {
