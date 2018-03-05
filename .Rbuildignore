@@ -2,3 +2,5 @@
 ^\.Rproj\.user$
 ^R/mvnpdfRAW\.R$
 ^R/mvnpdfRox\.R$
+^README\.Rmd$
+^README-.*\.png$
