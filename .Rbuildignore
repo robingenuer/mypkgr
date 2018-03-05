@@ -4,3 +4,4 @@
 ^R/mvnpdfRox\.R$
 ^README\.Rmd$
 ^README-.*\.png$
+^\.travis\.yml$

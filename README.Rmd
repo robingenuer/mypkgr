@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 
 The goal of mypkgr is to do THAT.
 
+[![Travis-CI Build Status](https://travis-ci.org/*prenomnom*/mypkgr.svg?branch=master)](https://travis-ci.org/*prenomnom*/mypkgr)
+
 ## Installation
 
 You can install mypkgr from github with:

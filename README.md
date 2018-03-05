@@ -3,7 +3,9 @@
 mypkgr
 ======
 
-The goal of mypkgr is to do many things
+The goal of mypkgr is to do THAT.
+
+[![Travis-CI Build Status](https://travis-ci.org/*prenomnom*/mypkgr.svg?branch=master)](https://travis-ci.org/*prenomnom*/mypkgr)
 
 Installation
 ------------
